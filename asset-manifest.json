@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-homework-template/static/css/main.7cda0caf.css",
+    "main.js": "/react-homework-template/static/js/main.6db7de04.js",
+    "static/js/892.53e83c74.chunk.js": "/react-homework-template/static/js/892.53e83c74.chunk.js",
+    "static/js/112.cd211a39.chunk.js": "/react-homework-template/static/js/112.cd211a39.chunk.js",
+    "static/js/352.003ec008.chunk.js": "/react-homework-template/static/js/352.003ec008.chunk.js",
+    "static/js/417.5a8f6ebc.chunk.js": "/react-homework-template/static/js/417.5a8f6ebc.chunk.js",
+    "static/js/885.bf1ff0b0.chunk.js": "/react-homework-template/static/js/885.bf1ff0b0.chunk.js",
+    "static/js/607.b097120c.chunk.js": "/react-homework-template/static/js/607.b097120c.chunk.js",
+    "static/js/279.2c004ea1.chunk.js": "/react-homework-template/static/js/279.2c004ea1.chunk.js",
+    "static/js/185.a060f8b9.chunk.js": "/react-homework-template/static/js/185.a060f8b9.chunk.js",
+    "index.html": "/react-homework-template/index.html",
+    "main.7cda0caf.css.map": "/react-homework-template/static/css/main.7cda0caf.css.map",
+    "main.6db7de04.js.map": "/react-homework-template/static/js/main.6db7de04.js.map",
+    "892.53e83c74.chunk.js.map": "/react-homework-template/static/js/892.53e83c74.chunk.js.map",
+    "112.cd211a39.chunk.js.map": "/react-homework-template/static/js/112.cd211a39.chunk.js.map",
+    "352.003ec008.chunk.js.map": "/react-homework-template/static/js/352.003ec008.chunk.js.map",
+    "417.5a8f6ebc.chunk.js.map": "/react-homework-template/static/js/417.5a8f6ebc.chunk.js.map",
+    "885.bf1ff0b0.chunk.js.map": "/react-homework-template/static/js/885.bf1ff0b0.chunk.js.map",
+    "607.b097120c.chunk.js.map": "/react-homework-template/static/js/607.b097120c.chunk.js.map",
+    "279.2c004ea1.chunk.js.map": "/react-homework-template/static/js/279.2c004ea1.chunk.js.map",
+    "185.a060f8b9.chunk.js.map": "/react-homework-template/static/js/185.a060f8b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cda0caf.css",
+    "static/js/main.6db7de04.js"
+  ]
+}
